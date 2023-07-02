@@ -387,5 +387,13 @@ git remote add origin git@github.com:goeasy2022/Go_Bilibili.git
 git push -u origin main
 ```
 
+![image-20230703001455735](Go开发环境搭建.assets/image-20230703001455735.png)
+
+```bash
+git add .
+git commit -m "update Go开发环境搭建.assets"
+git push -u origin main
+```
+
 
 
